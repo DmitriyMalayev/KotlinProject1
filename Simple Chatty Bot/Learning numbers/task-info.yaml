@@ -131,8 +131,5 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/10773#comment
-status: Failed
-feedback:
-  message: Failed to launch checking
-  time: Thu, 29 Sep 2022 03:27:04 UTC
+status: Solved
 record: 4
